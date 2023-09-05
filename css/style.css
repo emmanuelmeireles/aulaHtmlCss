@@ -1,0 +1,15 @@
+div{
+    margin: 5mm 5mm 5mm 5mm;
+    padding: 5mm 5mm 5mm 5mm;
+    border-color: darkblue;
+    border-width: 1cm;
+    border-style: solid;
+    background-image: url("../img/android.png");
+    background-color: burlywood;
+    background-size: 40%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-blend-mode: multiply;
+}
