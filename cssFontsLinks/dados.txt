@@ -1,0 +1,28 @@
+- links
+    border: 2px solid #22D4FD;
+    width: 378px;
+    padding: 21.5px 0;
+- section conteúdo:
+    margin: 10% 15%;
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+- conteúdo texto:
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+- conteúdo título:
+    font-family: 'Krona One', sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+- links
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+
+CONTEUDO:
+
+Eleve seu negócio digital a outro nívelcom um Front-end de qualidade!
+
+Olá! Sou Joana Santos, desenvolvedora Front-end com especialidade em React, HTML e CSS. Ajudo pequenos negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
