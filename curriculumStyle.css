@@ -1,0 +1,44 @@
+body {
+  margin: 20px;
+}
+
+.mso-resize{
+  font-size: 13px !important;
+}
+
+.material-symbols-outlined {
+  font-size: 13px !important;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#titulo{
+  font-family: 'Cousine', monospace;
+}
+
+.centralizado{
+  text-align: center  
+}
+
+.justificado{
+  text-align: justify
+}
+
+.sublinhado{
+  text-decoration: underline
+}
+
+li{
+  margin-bottom: 1em
+}
