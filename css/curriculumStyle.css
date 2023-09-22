@@ -1,0 +1,71 @@
+body {
+  margin: 20px;
+}
+
+.dot{
+  margin-left: 2mm;
+  margin-right: 2mm;
+  width: 15px;
+  height: 15px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.material-symbols-outlined {
+  font-size: 15px !important;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+#titulo{
+  font-family: 'Cousine', monospace;
+}
+
+.centralizado{
+  text-align: center  
+}
+
+.justificado{
+  text-align: justify
+}
+
+.sublinhado{
+  text-decoration: underline
+}
+
+
+
+.tabela{
+  width: 100%;
+}
+
+.direita{
+  text-align: right;
+}
+
+
+
+
+a:link{
+  color:chocolate;
+}
+
+a:visited{
+  color: cadetblue;
+}
+
+a:hover{
+  color: yellow;
+  cursor: crosshair;
+}
+
+img:hover{
+  cursor: copy;
+}
+
+

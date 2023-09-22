@@ -1,0 +1,16 @@
+div{
+    background-color: antiquewhite;
+    margin: 5mm 5mm 5mm 5mm;
+    padding: 5mm 5mm 5mm 5mm;
+    border-color: blue;
+    border-width: 2mm;
+    border-style: solid;
+
+    background-image: url("../img/android.png"), url("../img/wall.jpg");
+    background-repeat: no-repeat repeat;
+    background-size: 30%;
+    background-position: center top; 
+    background-origin: padding-box;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+}

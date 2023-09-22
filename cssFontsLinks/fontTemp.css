@@ -1,0 +1,20 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+.teste{
+    font-family: 'Nabla', cursive;
+}
+
+div{
+    text-align: center;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
